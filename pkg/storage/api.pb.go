@@ -19,6 +19,7 @@
 		CollectChecksumRequest
 		CollectChecksumResponse
 		Liveness
+		RaftHeartbeat
 		RaftMessageRequest
 		RaftMessageRequestBatch
 		RaftMessageResponseUnion
